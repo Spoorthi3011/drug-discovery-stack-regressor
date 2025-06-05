@@ -37,10 +37,10 @@ This repository presents a summary of our research on integrating machine learni
 ## 📈 Explainability Plots
 
 ### 🔹 SHAP Summary Plot
-![SHAP Summary](explanations/shap_summary_plot.png)
+![SHAP Summary](SHAP.png)
 
 ### 🔹 LIME Explanation (Sample)
-Open [`lime_explanation.html`](explanations/lime_explanation.html) to explore local feature influences.
+Open [`lime_explanation.html`](LIME.png) to explore local feature influences.
 
 ---
 
